@@ -1,0 +1,6 @@
+game_data.csv
+log.txt
+test_log.txt
+dist/
+build/
+.vscode/

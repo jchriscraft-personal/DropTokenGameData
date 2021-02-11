@@ -1,0 +1,7 @@
+database_server: localhost
+database_server_port: 5432
+database: drop_token
+database_user: *****
+database_password: *****
+game_data_csv_location: https://s3-us-west-2.amazonaws.com/98point6-homework-assets/game_data.csv
+player_data_location: https://x37sv76kth.execute-api.us-west-1.amazonaws.com/prod/users
